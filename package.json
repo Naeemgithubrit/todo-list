@@ -1,0 +1,18 @@
+{
+  "name": "naeem_todo_list",
+  "version": "2.0.0",
+  "description": "A todo list with typescript,node js and inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naeem shah",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
